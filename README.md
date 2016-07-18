@@ -1,0 +1,1 @@
+# base-all-in-one-image-to-run-tests-on-gitlab-ci
